@@ -1,0 +1,5 @@
+procesaformulario,entregas,tribeiro2109@gmail.com,https://youtu.be/JOpPKlrhhp0/drop,2procesaformulario,entregas,tribeiro2109@gmail.com,https://youtu.be/JOpPKlrhhp0/drop,2,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+procesaformulario,entregas,tribeiro2109@gmail.com,https://youtu.be/JOpPKlrhhp0/drop,2,::1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+procesaformulario,entregas,tribeiro2109@gmail.com,https://youtu.be/JOpPKlrhhp0/drop,2,::1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+procesaformulario,entregas,tribeiro2109@gmail.com,https://youtu.be/JOpPKlrhhp0/delete,2,::1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+procesaformulario,entregas,tribeiro2109@gmail.com,https://youtu.be/ti_6XHMVGg0/drop,1,::1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
